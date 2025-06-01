@@ -1,0 +1,25 @@
+{
+  "name": "google-oauth2-login-app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app using Express, Passport, and Google OAuth 2.0 to authenticate users.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "passport",
+    "google-oauth2",
+    "authentication"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.17.3",
+    "nodemailer": "^7.0.3",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
