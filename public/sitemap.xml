@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home Page -->
+  <url>
+    <loc>https://nextedgeinnovations.org/protected.html</loc>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- About Us Page -->
+  <url>
+    <loc>https://nextedgeinnovations.org/about.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Applications Page -->
+  <url>
+    <loc>https://nextedgeinnovations.org/applications.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://nextedgeinnovations.org/contact.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Domain Page -->
+  <url>
+    <loc>https://nextedgeinnovations.org/domain.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Hosting Page -->
+  <url>
+    <loc>https://nextedgeinnovations.org/hosting.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- Applications Page -->
+  <url>
+    <loc>https://nextedgeinnovations.org/applications.html</loc>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- Tools Page -->
+  <url>
+    <loc>https://nextedgeinnovations.org/tools.html</loc>
+    <priority>0.80</priority>
+  </url>
+  
+</urlset>
